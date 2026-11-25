@@ -4,7 +4,7 @@
 ![PhD Candidate](https://img.shields.io/badge/PhD%20Candidate-252525?style=flat-square)
 ![Biofilms](https://img.shields.io/badge/Biofilms-8A6500?style=flat-square)
 
-Usually somewhere between a wet lab bench and a terminal. I study the molecular machinery bacteria use to make polysaccharides and build biofilms.
+Usually somewhere between a wet lab bench and my laptop. I study the molecular machinery bacteria use to make polysaccharides and build biofilms.
 
 [Website](https://sflores14.github.io) | [LinkedIn](https://www.linkedin.com/in/saulfloresjr/) | [Email](mailto:sflores4@umd.edu)
 
@@ -27,7 +27,7 @@ Usually somewhere between a wet lab bench and a terminal. I study the molecular 
 ![Linux](https://img.shields.io/badge/Linux-B91F2E?style=flat-square&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-252525?style=flat-square&logo=git&logoColor=white)
 
-If I can get something running in a Colab notebook, I'll probably give it a try.
+If I can get something running, I'll probably give it a try.
 
 ### Beyond the bench
 
