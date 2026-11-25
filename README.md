@@ -23,7 +23,7 @@ Biochemistry PhD candidate at the University of Maryland, usually somewhere betw
 ![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-Molecular docking · Molecular dynamics · Structural biology · Scientific computing
+Molecular docking, molecular dynamics, structural biology and scientific computing.
 
 If I can get something running in a Colab notebook, I'll probably give it a try.
 
@@ -33,4 +33,4 @@ I teach and mentor through InspiraSTEM in El Salvador, and work with fellow scie
 
 Always happy to chat about proteins, open science, cool tools or science policy. Se habla español. 🇸🇻
 
-[🌐 Website](https://sflores14.github.io) · [LinkedIn](https://www.linkedin.com/in/saulfloresjr/) · [Email](mailto:sflores4@umd.edu)
+[🌐 Website](https://sflores14.github.io) | [LinkedIn](https://www.linkedin.com/in/saulfloresjr/) | [Email](mailto:sflores4@umd.edu)
