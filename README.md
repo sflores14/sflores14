@@ -1,32 +1,36 @@
-# Saúl J. Flores
+# Hey, I'm Saúl! 👋
 
-**Biochemistry Ph.D. Candidate | Computational & Structural Biology | Science Policy**
+Biochemistry PhD candidate at the University of Maryland, usually somewhere between a wet lab bench and a terminal.
 
-[Personal website](https://sflores14.github.io) · [LinkedIn](https://www.linkedin.com/in/saulfloresjr/) · [Email](mailto:sflores4@umd.edu)
+🧬 I study the molecular machinery bacteria use to make polysaccharides and build biofilms.
 
-## About me
+💻 I like exploring protein structures, molecular simulations, biological AI and ways to make computational research a little more accessible.
 
-I'm a Ph.D. candidate in Biochemistry at the University of Maryland, College Park. My research in the Poulin Lab combines experimental biochemistry and computational approaches to understand how bacteria synthesize extracellular polysaccharides involved in biofilm formation.
+🌎 Outside the lab, I spend time on science policy, STEM outreach and teaching computational biochemistry in Spanish.
 
-I'm interested in making computational tools more accessible to researchers, understanding how we evaluate AI-generated scientific predictions, and exploring the policies that shape biomedical innovation.
+### Things I'm working on
 
-## Research & computational interests
+- Understanding how bacterial enzymes build and export polysaccharides.
+- Making molecular modeling workflows easier to run and reproduce.
+- Contributing to [Cloud-Bind](https://github.com/pablo-arantes/Cloud-Bind), a cloud-based molecular docking project.
+- Exploring new tools for protein modeling and evolutionary analysis.
 
-- Bacterial polysaccharide biosynthesis, enzymology and structural biology
-- Protein structure prediction, molecular docking and molecular dynamics
-- Reproducible scientific workflows, data analysis and AI-assisted research
-- Biotechnology innovation, science and technology policy, and responsible biological AI
+### A few things in my toolbox
 
-**Tools:** Python, Linux/Unix, shell scripting, Jupyter/Google Colab, high-performance computing, molecular modeling and visualization.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## Selected work
+Molecular docking · Molecular dynamics · Structural biology · Scientific computing
 
-- **Cloud-Bind:** Contributor to a collaborative project developing accessible, cloud-based molecular docking and ligand pose evaluation workflows. [Project repository](https://github.com/pablo-arantes/Cloud-Bind)
-- **Science policy:** Coauthor of [The Scientist Network for Advancing Policy (SNAP): Building Infrastructure for Early-Career Scientists in Policy and Public Engagement](https://doi.org/10.1093/biosci/biag053), *BioScience* (2026).
-- **Research and outreach:** [More about my research, presentations and activities](https://sflores14.github.io).
+If I can get something running in a Colab notebook, I'll probably give it a try.
 
-## Teaching, mentorship & community
+### Beyond the bench
 
-I enjoy helping students build confidence with computational and experimental science. Through InspiraSTEM, I've developed Spanish-language computational biochemistry workshops and mentored undergraduate researchers in El Salvador. At UMD, I'm involved in graduate science policy, SACNAS and interdisciplinary STEM outreach.
+I teach and mentor through InspiraSTEM in El Salvador, and work with fellow scientists on science policy through SNAP and UMD. Here's a [paper we wrote about getting early-career scientists involved in policy](https://doi.org/10.1093/biosci/biag053).
 
-I'm happy to connect with people working across computational biology, biotechnology, scientific software and science policy.
+Always happy to chat about proteins, open science, cool tools or science policy. Se habla español. 🇸🇻
+
+[🌐 Website](https://sflores14.github.io) · [LinkedIn](https://www.linkedin.com/in/saulfloresjr/) · [Email](mailto:sflores4@umd.edu)
