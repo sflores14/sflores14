@@ -4,7 +4,7 @@
 ![PhD Candidate](https://img.shields.io/badge/PhD%20Candidate-252525?style=flat-square)
 ![Biofilms](https://img.shields.io/badge/Biofilms-8A6500?style=flat-square)
 
-Usually somewhere between a wet lab bench and my laptop. I study the molecular machinery bacteria use to make polysaccharides and build biofilms.
+Usually somewhere between a lab bench and my laptop. I study the molecular machinery bacteria use to make polysaccharides and build biofilms.
 
 [Website](https://sflores14.github.io) | [LinkedIn](https://www.linkedin.com/in/saulfloresjr/) | [Email](mailto:sflores4@umd.edu)
 
