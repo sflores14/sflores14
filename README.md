@@ -6,7 +6,7 @@
 
 Usually somewhere between a lab bench and my laptop. I study the molecular machinery bacteria use to make polysaccharides and build biofilms.
 
-[Website](https://sflores14.github.io) | [LinkedIn](https://www.linkedin.com/in/saulfloresjr/) | [Email](mailto:sflores4@umd.edu)
+[Website](https://sflores14.github.io) | [LinkedIn](https://www.linkedin.com/in/saulfloresjr/) | sflores4[AT]umd.edu
 
 ### Things I'm working on
 
